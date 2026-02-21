@@ -17,7 +17,7 @@ AI-powered clinical decision support system for Lu-177 PSMA radioligand therapy 
 
 ## Key Features
 
-✅ **AI Clinical Interpretation** - Gemini translates dosimetry into actionable recommendations  
+✅ **AI Clinical Interpretation** - Gemini/medgemma translates dosimetry into actionable recommendations  
 ✅ **EANM Guideline Integration** - Evidence-based eligibility assessment  
 ✅ **Risk Stratification** - Clear/borderline/high-risk patient identification  
 ✅ **Structured Output** - Eligibility, dose recommendations, monitoring protocols  
