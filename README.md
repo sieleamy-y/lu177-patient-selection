@@ -7,11 +7,11 @@
 
 ## Overview
 
-AI-powered clinical decision support system for Lu-177 PSMA radioligand therapy patient selection using Gemini (Health AI Developer Foundations).
+AI-powered clinical decision support system for Lu-177 PSMA radioligand therapy patient selection using Gemini and Medgemma (Health AI Developer Foundations).
 
 **Problem:** 40-60% of patients selected by SUV criteria alone don't respond to Lu-177 therapy, and 12% experience severe nephrotoxicity.
 
-**Solution:** Open-source dosimetry pipeline + Gemini AI clinical layer = evidence-based eligibility recommendations with structured guidance for dose adjustments and monitoring.
+**Solution:** Open-source dosimetry pipeline + Gemini/medgemma AI clinical layer = evidence-based eligibility recommendations with structured guidance for dose adjustments and monitoring.
 
 ---
 
