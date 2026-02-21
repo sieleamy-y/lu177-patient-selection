@@ -176,3 +176,10 @@ MIT License - See LICENSE file for details
 ## Acknowledgments
 
 This project leverages Google's Health AI Developer Foundations (HAI-DEF) and the open-source medical imaging community's tools (Z-Rad, TotalSegmentator) to democratize advanced healthcare technology.
+## Live Demos
+
+**MedGemma Implementation (Kaggle Notebook with GPU):**
+https://www.kaggle.com/code/amysiele/medgemma-working-demo
+
+**Local Gemini Implementation:**
+See `AI-Guided Lu-177 Patient Selection Demo.ipynb` in this repository
